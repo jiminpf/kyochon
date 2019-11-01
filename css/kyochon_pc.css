@@ -268,6 +268,7 @@ article.store{
   font-size: 18px;
   letter-spacing: 5px;
   padding-left: 15px;
+  padding-right: 70px;
 }
 .store input::placeholder {
   color: #fff;
